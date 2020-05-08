@@ -1,0 +1,9 @@
+{
+    "$class": "org.accordproject.latedeliveryandpenalty.LateDeliveryAndPenaltyRequest",
+    "forceMajeure": false,
+    "agreedDelivery": "2019-04-05T00:46:35.576-04:00",
+    "deliveredAt": "2019-04-05T00:46:35.576-04:00",
+    "goodsValue": 48.972,
+    "transactionId": "cab22b80-575d-11e9-9ffa-db0629e5d319",
+    "timestamp": "2019-04-05T00:46:35.576-04:00"
+}
